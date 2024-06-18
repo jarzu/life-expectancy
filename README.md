@@ -1,2 +1,2 @@
 # life-expectancy
-Analysis of expectancy in the US
+Analysis of life expectancy in the US
